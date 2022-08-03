@@ -25,8 +25,7 @@
   ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
   
 ## 🥳 Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jesusDR01&repo=scrapeJIT)](https://github.com/JesusDR01/scrapeJIT)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tomashm01&repo=Proyecto-Ruleta)](https://github.com/tomashm01/Proyecto-Ruleta)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jesusDR01&repo=Netflix)](https://github.com/JesusDR01/netflix)
 
 ## 💬 How to reach me
 
