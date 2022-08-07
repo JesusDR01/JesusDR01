@@ -3,7 +3,6 @@
 ### Web developer
 - 🎓 I'm a front-end, mainly using NodeJs & React.
 - 🌱 I’m currently learning Solidity.
-- 📫 How to reach me: https://www.linkedin.com/in/jesusdr/
 - ⚡ Fun fact: I'm proficient at shooters :)
 
 ## 🧐 About me
